@@ -1,0 +1,288 @@
+{
+      "previred": {
+            "asignacion_familiar": [
+                  {
+                        "tramo": "1 (A)",
+                        "monto": "$ 20.328",
+                        "requisito_de_renta": "Renta < \u00f3 = $ 539.328"
+                  },
+                  {
+                        "tramo": "2 (B)",
+                        "monto": "$ 12.475",
+                        "requisito_de_renta": "Renta > $ 539.328 < = $ 787.746"
+                  },
+                  {
+                        "tramo": "3 (C)",
+                        "monto": "$ 3.942",
+                        "requisito_de_renta": "Renta > $ 787.746 < = $ 1.228.614"
+                  },
+                  {
+                        "tramo": "4 (D)",
+                        "monto": "\u2013",
+                        "requisito_de_renta": "Renta > $ 1.228.614"
+                  }
+            ],
+            "rentas_minimas_imponibles": [
+                  {
+                        "grupo": "Trab. Dependientes e Independientes:",
+                        "monto": "$ 460.000"
+                  },
+                  {
+                        "grupo": "Menores de 18 y Mayores de 65:",
+                        "monto": "$ 343.150"
+                  },
+                  {
+                        "grupo": "Trabajadores de Casa Particular:",
+                        "monto": "$ 460.000"
+                  },
+                  {
+                        "grupo": "Para fines no remuneracionales:",
+                        "monto": "$ 296.511"
+                  }
+            ],
+            "afp": [
+                  {
+                        "afp": "Capital",
+                        "tasa_afp_dependientes": "11,44%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "12,93%"
+                  },
+                  {
+                        "afp": "Cuprum",
+                        "tasa_afp_dependientes": "11,44%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "12,93%"
+                  },
+                  {
+                        "afp": "Habitat",
+                        "tasa_afp_dependientes": "11,27%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "12,76%"
+                  },
+                  {
+                        "afp": "PlanVital",
+                        "tasa_afp_dependientes": "11,16%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "12,65%"
+                  },
+                  {
+                        "afp": "ProVida",
+                        "tasa_afp_dependientes": "11,45%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "12,94%"
+                  },
+                  {
+                        "afp": "Modelo",
+                        "tasa_afp_dependientes": "10,58%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "12,07%"
+                  },
+                  {
+                        "afp": "Uno",
+                        "tasa_afp_dependientes": "10,49%",
+                        "sis_dependientes": "1,49%",
+                        "tasa_afp_independientes": "11,98%"
+                  }
+            ],
+            "valor_uf": [
+                  {
+                        "fecha": "al 31 de Enero del 2024:",
+                        "valor_uf": "$ 36.733,04"
+                  },
+                  {
+                        "fecha": "al 31 de Diciembre del 2023:",
+                        "valor_uf": "$ 36.789,36"
+                  }
+            ],
+            "cotizacion_trabajos_pesados": [
+                  {
+                        "puesto_de_trabajo": "Trabajo pesado",
+                        "calificacion": "4%",
+                        "financiamiento_empleador": "2% R.I.",
+                        "financiamiento_trabajador": "2% R.I."
+                  },
+                  {
+                        "puesto_de_trabajo": "Trabajo menos pesado",
+                        "calificacion": "2%",
+                        "financiamiento_empleador": "1% R.I.",
+                        "financiamiento_trabajador": "1% R.I."
+                  }
+            ],
+            "distribucion_7_porciento": [
+                  {
+                        "destino": "CCAF",
+                        "porcentaje": "3,1% R.I."
+                  },
+                  {
+                        "destino": "FONASA",
+                        "porcentaje": "3,9% R.I."
+                  }
+            ],
+            "seguro_de_cesantia": [
+                  {
+                        "contrato": "Plazo Indefinido",
+                        "financiemiento_empleador": "2,4% R.I.",
+                        "financiamiento_trabajador": "0,6% R.I."
+                  },
+                  {
+                        "contrato": "Plazo Fijo",
+                        "financiemiento_empleador": "3,0% R.I.",
+                        "financiamiento_trabajador": "\u2013"
+                  },
+                  {
+                        "contrato": "Plazo Indefinido 11 a\u00f1os o m\u00e1s (*)",
+                        "financiemiento_empleador": "0,8% R.I.",
+                        "financiamiento_trabajador": "\u2013"
+                  },
+                  {
+                        "contrato": "Trabajador de Casa Particular (**)",
+                        "financiemiento_empleador": "3,0% R.I.",
+                        "financiamiento_trabajador": "\u2013"
+                  }
+            ],
+            "ahorro_previsional_voluntario": [
+                  {
+                        "tipo_tope": "Tope Mensual (50 UF):",
+                        "valor": "$ 1.836.652"
+                  },
+                  {
+                        "tipo_tope": "Tope Anual (600 UF):",
+                        "valor": "$ 22.039.824"
+                  }
+            ],
+            "valor_utm_uta": [
+                  {
+                        "valor": "Enero 2024",
+                        "utm": "$ 64.666",
+                        "uta": "$ 775.992"
+                  }
+            ],
+            "rentas_topes_imponibles": [
+                  {
+                        "grupo": "Para afiliados a una AFP (84,3 UF):",
+                        "valor": "$ 3.096.595"
+                  },
+                  {
+                        "grupo": "Para afiliados al IPS (ex INP) (60 UF):",
+                        "valor": "$ 2.207.362"
+                  },
+                  {
+                        "grupo": "Para Seguro de Cesant\u00eda (126,6 UF):",
+                        "valor": "$ 4.650.403"
+                  }
+            ],
+            "deposito_convenido": [
+                  {
+                        "grupo": "Tope Anual (900 UF):",
+                        "valor": "$ 33.059.736"
+                  }
+            ]
+      },
+      "sii": {
+            "impuesto_segunda_categoria": [
+                  {
+                        "desde": "-.-",
+                        "hasta": "$ 868.630,50",
+                        "factor": "Exento",
+                        "cantidad_a_rebajar": "-.-",
+                        "tasa_de_impuesto_efectiva_maxima": "Exento"
+                  },
+                  {
+                        "desde": "$ 868.630,51",
+                        "hasta": "$ 1.930.290,00",
+                        "factor": "0,04",
+                        "cantidad_a_rebajar": "$ 34.745,22",
+                        "tasa_de_impuesto_efectiva_maxima": "2,20%"
+                  },
+                  {
+                        "desde": "$ 1.930.290,01",
+                        "hasta": "$ 3.217.150,00",
+                        "factor": "0,08",
+                        "cantidad_a_rebajar": "$ 111.956,82",
+                        "tasa_de_impuesto_efectiva_maxima": "4,52%"
+                  },
+                  {
+                        "desde": "$ 3.217.150,01",
+                        "hasta": "$ 4.504.010,00",
+                        "factor": "0,135",
+                        "cantidad_a_rebajar": "$ 288.900,07",
+                        "tasa_de_impuesto_efectiva_maxima": "7,09%"
+                  },
+                  {
+                        "desde": "$ 4.504.010,01",
+                        "hasta": "$ 5.790.870,00",
+                        "factor": "0,23",
+                        "cantidad_a_rebajar": "$ 716.781,02",
+                        "tasa_de_impuesto_efectiva_maxima": "10,62%"
+                  },
+                  {
+                        "desde": "$ 5.790.870,01",
+                        "hasta": "$ 7.721.160,00",
+                        "factor": "0,304",
+                        "cantidad_a_rebajar": "$ 1.145.305,40",
+                        "tasa_de_impuesto_efectiva_maxima": "15,57%"
+                  },
+                  {
+                        "desde": "$ 7.721.160,01",
+                        "hasta": "$ 19.946.330,00",
+                        "factor": "0,35",
+                        "cantidad_a_rebajar": "$ 1.500.478,76",
+                        "tasa_de_impuesto_efectiva_maxima": "27,48%"
+                  },
+                  {
+                        "desde": "$ 19.946.330,01",
+                        "hasta": "Y M\u00c1S",
+                        "factor": "0,4",
+                        "cantidad_a_rebajar": "$ 2.497.795,26",
+                        "tasa_de_impuesto_efectiva_maxima": "M\u00c1S DE 27,48%"
+                  }
+            ],
+            "retencion_boletas_de_honorarios": [
+                  {
+                        "anho": "2020",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "10,75%"
+                  },
+                  {
+                        "anho": "2021",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "11,5%"
+                  },
+                  {
+                        "anho": "2022",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "12.25%"
+                  },
+                  {
+                        "anho": "2023",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "13%"
+                  },
+                  {
+                        "anho": "2024",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "13.75%"
+                  },
+                  {
+                        "anho": "2025",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "14.5%"
+                  },
+                  {
+                        "anho": "2026",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "15.25%"
+                  },
+                  {
+                        "anho": "2027",
+                        "aumento_retencion": "0,75%",
+                        "total_retencion_boleta": "16%"
+                  },
+                  {
+                        "anho": "2028",
+                        "aumento_retencion": "1%",
+                        "total_retencion_boleta": "17%"
+                  }
+            ]
+      }
+}
